@@ -1,0 +1,6 @@
+5
+ap	0
+pc	1
+pt	2
+apc	3
+apt	4
