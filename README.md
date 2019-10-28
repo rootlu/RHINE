@@ -53,7 +53,7 @@ RHINE/
 @inproceedings{Yuanfu2019RHINE,
   title={Relation Structure-Aware Heterogeneous Information Network Embedding.},
   author={Yuanfu Lu, Chuan Shi, Linmei Hu, Zhiyuan Liu.}
-  booktitle={AAAI},
+  booktitle={Proceedings of AAAI},
   year={2019}
 }
 
