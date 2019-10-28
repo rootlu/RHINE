@@ -1,5 +1,5 @@
 # RHINE
-Source code for AAAI 2019 paper "**Relation Structure-Aware Heterogeneous Information Network Embedding**"
+Source code for AAAI 2019 paper ["**Relation Structure-Aware Heterogeneous Information Network Embedding**"](https://arxiv.org/abs/1905.08027)
 
 # Requirements
 
